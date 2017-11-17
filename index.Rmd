@@ -1,6 +1,5 @@
 ---
-title: "Pyramid on my Roof"
-subtitle: "A layman’s thoughts on the MLM business model"
+title: "The Damp Roman Candle"
 author: "Ram Iyer"
 date: "`r Sys.Date()`"
 press: "Midnight Lampblack"
