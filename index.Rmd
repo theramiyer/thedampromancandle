@@ -19,7 +19,7 @@ mainfontoptions:
 fontsize: 12pt
 link-citations: yes
 site: bookdown::bookdown_site
-dedication: "Dedicated to sanity."
+dedication: "Dedicated to storytellers."
 copyright: copyright.tex
 isbn: 978-1-56619-909-4
 ---
