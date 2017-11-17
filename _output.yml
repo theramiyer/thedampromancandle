@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Pyramid on my Roof</a></li>
+      after: |
+        <li>&copy; 2017 Ram Iyer</li>
+    download: ["pdf", "epub"]
+    fontsettings:
+        theme: white
+        family: serif
+        size: 3
+bookdown::pdf_book:
+  includes:
+    in_header: latex/preamble.tex
+  template: latex/template.tex
+  toc_unnumbered: yes
+  latex_engine: pdflatex
+  keep_tex: yes
+bookdown::epub_book: default

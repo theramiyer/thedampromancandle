@@ -1,0 +1,46 @@
+---
+title: "Pyramid on my Roof"
+subtitle: "A layman’s thoughts on the MLM business model"
+author: "Ram Iyer"
+date: "`r Sys.Date()`"
+press: "Midnight Lampblack"
+documentclass: memoir
+papersize: smalldemyvo
+indent: yes
+fontfamily: Alegreya
+fontfamilyoptions:
+  - osf
+altfont: "AlegreyaSans"
+microtypeoptions:
+  - tracking
+  - letterspace=50
+linestretch: "1.15"
+mainfontoptions:
+  - osf
+fontsize: 12pt
+link-citations: yes
+site: bookdown::bookdown_site
+dedication: "Dedicated to sanity."
+copyright: copyright.tex
+isbn: 978-1-56619-909-4
+---
+
+```{r, include=FALSE}
+scenebreak = function() {
+  knitr::asis_output(if (knitr:::is_latex_output()) {
+    "\\scenebreak"
+  } else {
+    "<div style='text-align:center;'>&#8226;</div>"
+  })
+}
+```
+
+`r if (knitr:::is_html_output()) '# Copyright {-}
+
+Anim laborum nulla aliquip non cillum id aliquip aute culpa esse pariatur ut in tempor ullamco. Qui qui cillum velit occaecat occaecat nisi deserunt eiusmod ullamco deserunt. Excepteur culpa duis eu velit amet est occaecat dolore enim irure id dolor labore minim aliqua eiusmod dolor.
+
+Officia velit id laborum et id reprehenderit velit. Veniam nostrud ipsum adipisicing ad officia pariatur veniam nisi eiusmod minim. Eiusmod ut exercitation commodo anim qui qui aliquip id consectetur sit nulla amet duis aute.
+
+Mollit amet magna fugiat aute ut sunt dolore anim ea anim excepteur qui adipisicing sint nostrud. Proident ad non reprehenderit laboris tempor ullamco nisi ad dolore consequat aute elit ea cupidatat eiusmod do voluptate. Fugiat proident est et ipsum anim ad voluptate aliquip ullamco voluptate est laboris anim. Aliqua sint Lorem sint veniam enim officia dolor enim pariatur consectetur sint elit incididunt. Anim non quis dolor proident nostrud incididunt voluptate ex adipisicing qui nisi ipsum culpa tempor irure ipsum non.
+
+Excepteur esse irure anim ex nisi officia culpa ut consequat minim ut. Adipisicing Lorem velit veniam do irure fugiat sint aute excepteur qui mollit qui anim laboris. Aliquip exercitation deserunt voluptate laborum proident ullamco excepteur esse mollit.'`
