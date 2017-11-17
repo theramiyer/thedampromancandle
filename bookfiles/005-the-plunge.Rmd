@@ -1,0 +1,67 @@
+# The Plunge
+
+It was the first Friday of October. It had rained in the morning and the morning was fresh and beautiful. She'd received a text from Friedrich asking her if she was available for an outing. Smiling, she'd replied, 'It depends.'
+
+Thirty minutes later, she was done packing her rucksack. She was ready for an adventure. She was going out with him. She was going to Goa.
+
+Her mother was in Coimbatore. She was to stay there for a month with her dad, to help him with his business expansion. Frieda just had to call up and inform her mother, which was very simple, given that her mother almost never questioned her decisions. 'Ma, I'm going out for the weekend. I shall be back by Sunday night. Our team has planned a trip to Coorg.' Her mum didn't have any further questions. Frieda was free for the weekend. She picked up her power bank and threw it into the rucksack. She gave her hair a final glance in the mirror and walked over to the shoe rack to pick up her favourite trekking shoes. A minute later, she boarded the cab to work, with the rucksack hanging from her shoulder.
+
+For a while, they'd forgotten the disturbing thoughts that were keeping them awake at night. They'd forgotten about the protests their families would show. They'd forgotten about the friends that asked them to rebel, and about those who asked them to "...quit it and keep it simple for everybody." They'd forgotten about their own differences. It was time to go off the grid for a while.
+
+The moment they both met in the evening, he asked her to turn off her phone. She sent a text to her mum about being unreachable due to the unavailability of cellular network on the _Ghats_, and that there was nothing to worry about.
+
+At some level, her mother did have her doubts about this suddenly-planned trip, but she didn't want to question the honesty of her daughter. She believed that her daughter was capable of taking her decisions and owning up to them.
+
+While boarding the train, Frieda had asked if they could jump off at Sonaulim and walk to the Dudhsagar falls. She'd read a lot about people camping there. She'd read about people jumping off the moving train, onto the platform, and walking on the railway tracks to the falls to get a good view of the beautiful piece of work by Mother Nature.
+```{r echo=FALSE}
+scenebreak()
+```
+They passed Dudhsagar by about 10:50 on the overcast, moist Saturday morning. It was beautiful, though it was warm by _Bangalorean_ standards. The train did not stop at Sonaulim, and there were policemen at the station; they didn't want people to break the rules and alight the running train. Friedrich refused to jump and forbade Frieda from jumping. They then got down at Kulem and then went over to the village called Kuveshi, to start the trek to the top of the waterfall. He'd heard that the trek was amazing and that the view from the top there was overwhelming, especially given that it was raining.
+
+He never really noticed the gloom on her face until they reached the village. _Something might have ticked her off. Perhaps the Sonaulim episode._ Throughout the trek, she was quiet, lost in thoughts, looking into the infinity. They walked without uttering a word to each other. He enjoyed the silence. He liked silence; it allowed him to think, to solve problems. The problem that was currently bothering him, though, didn't seem to have a solution. He'd hence thrown it to the back of his head and had decided to take things as they came.
+
+She, on the other hand, saw this as a sign of indifference. She started having her doubts about his intentions, his plan for the future---their future. She did not like this.
+
+'Why are you so silent,' she asked.
+
+'Me? Nothing... Just thinking.'
+
+'About?'
+
+'Hey, I have private thoughts', he said, winking.
+
+'And they are?'
+
+'Private', he laughed.
+
+'Freddie, this isn't funny. It is going off control, I think. What is it, talk to me!'
+
+'There's nothing to talk, there's nothing you can do about it. Let me handle it, would you?'
+
+'Well, does it concern me?'
+
+'May I have some silence, please? I came here not to be arguing with my girlfriend. I came here to have some peace.'
+
+'Oh, at least now you acknowledge that I'm your girlfriend!'
+
+'Whoa, where did that come from', he asked, annoyed by the comment.
+
+'Really? I've never heard you refer to me as your "girlfriend" before. So I'm happy it is finally dawning on you!'
+
+He became silent. That had escalated pretty fast, and he hadn't seen that coming. Throughout the rest of the trek, she was quietly crying inside. Her tears occasionally fell on the already wet grass, but otherwise, he couldn't hear her weep. They walked on with a grave expression on their faces, mirroring each other.
+
+After a few hours of trek, they reached the top of the falls. It was breathtakingly amazing, the view. Instead of taking in the beauty or clicking pictures like normal tourists would do, they just stood there looking in the direction of the railway bridge. The journey was almost the metaphor for her life, she thought. It had started with a thrill, and then she had been denied what she'd wanted. Later, she'd had a squabble and the whole activity had halted at what seemed like the end of the journey. Her thoughts were bizarre and she had no idea what she was thinking. Retaining the expression on her face, she put her rucksack down and opened the zipper of the side compartment. There was the pocket fruit knife. She pulled it out.
+
+'I'm not in a mood to eat, so don't ask', he said.
+
+'Nor am I.'
+
+'Then why are you---'
+
+Even before he could finish the next word, she flipped the knife and tried to stab herself with it. The knife was too weak to cause anything more than a little damage to her jacket.
+
+Friedrich went over and slapped her. 'What the hell was that? You ever try that again---'
+
+She welled up. Tears in her eyes, she freed her hand and ran towards the end of a cliff. Throwing the knife aside, and trying to make sense of all of the impulsive actions, he chased her. He couldn't connect the dots. He couldn't figure out why their argument had escalated so fast, why she had yelled, why she'd tried to stab herself, or why in God's name she was running towards the cliff with streams of tears rolling down her face. She stepped over a rock and jumped off onto a small clearing. She continued to run. He was about a couple of metres behind her, running, out of nothing but instinct. He didn't know what he was doing, or how he was going to stop her, given the slippery surface. She kept going and so did he. She wiped her face with her sleeve. Having lost the visual feedback for a second, she slipped, tripped on a rock, and fell. She rolled down a slope; he chased her, trying to catch her. Seconds later, her lower abdomen hit a rock. He tripped over her, fell, rolled further, and fell off.
+
+She gathered her senses, got up, and looked around. She couldn't find him. She was all alone in the forest. It then dawned on her, but she didn't want to believe it. She cried his name, but her voice was lost in the overpowering sound of the waterfall.
